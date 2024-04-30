@@ -32,8 +32,8 @@ The system uses the following main components:
 
 1. **Clone the Repository:**
    ```bash
-   git clone <>
-   cd <>
+   git clone https://github.com/Mona3087/pdf-rag.git
+   cd pdf-rag
 
 2. **Run the Application locally**
    ```bash
