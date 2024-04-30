@@ -1,4 +1,4 @@
-This Chainlit app was created following instructions from [this repository!]()
+This Chainlit app was created following instructions from [this repository!](https://github.com/Mona3087/pdf-rag.git)
     [ User Query ]
         ||
         \/
